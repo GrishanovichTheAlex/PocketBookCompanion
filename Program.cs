@@ -1,7 +1,5 @@
 ﻿using System.Reflection;
 
-Assembly.
-
 Console.WriteLine("Please, specify the path to the root folder:");
 
 var rootDirectory = Console.ReadLine();
